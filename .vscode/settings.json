@@ -3,7 +3,16 @@
         "iostream": "cpp",
         "string": "cpp",
         "stack": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "__config": "cpp",
+        "locale": "cpp",
+        "__locale": "cpp",
+        "chrono": "cpp",
+        "version": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
